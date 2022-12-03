@@ -1,4 +1,4 @@
-with open('C:\\Users\\LENOVO\\Documents\\Advent of code\\2022\\day2\\input.txt') as f:
+with open('\\Advent of code\\2022\\day2\\input.txt') as f:
     data_rough = f.read()
 
 data = data_rough.split('\n')
